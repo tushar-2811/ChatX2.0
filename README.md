@@ -60,6 +60,8 @@ Each backend service runs independently and communicates via **RabbitMQ**.
 - 🐳 **Dockerized Setup** for local and cloud environments  
 - 🌍 **Deployed on AWS**
 
+https://www.youtube-thumbnail-saver.com/
+
 ---
 
 ## 🧭 Architecture Overview
